@@ -1,0 +1,11 @@
+body{
+  
+}
+
+#hero{
+
+    background-image: url('images/guys.jpg');
+    background-size: cover;
+    height: 500px;
+    /* background-color: url(images/bed.jpg); */
+}
